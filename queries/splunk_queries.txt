@@ -1,0 +1,7 @@
+EventCode=4625
+
+EventCode=4625 | stats count by Account_Name
+
+EventCode=4625 | timechart count
+
+EventCode=4624
